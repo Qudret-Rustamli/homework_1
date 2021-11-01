@@ -1,0 +1,142 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main{
+    position: relative;
+    background-image: url("../images/concrete_seamless.png");
+    width: 100%;
+    height: 120vh;
+}
+
+.basliq{
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    background-color: #FFF;
+    border-bottom: 1px solid #777;
+    margin-bottom: 20px;
+}
+.adim{
+    position: absolute;
+    left: 200px;
+    padding: 25px;
+    font-size: 30px;
+    color: #FFF;
+    background-color: rgb(74, 165, 170);
+}
+.menu{
+    position: relative;
+    border: 1px solid #ddd;
+    
+    
+
+}
+.menu .links{
+    position: absolute;
+    margin-right: 350px;
+    margin-top: 30px;
+    margin-left: 870px;
+   
+    
+}
+.links a{
+    text-decoration: none;
+    color: #999;
+    font-size: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-right: 1px solid #999;
+
+}
+.teqdimat{
+    position: absolute;
+    top: 90px;
+    left: 200px;
+    background-color: #FFF;
+    width: 600px;
+    height: auto;
+    border-right: 1px solid #DDD;
+    border-radius: 20px;
+}
+.sekilucun{
+    float: left;
+    padding: 15px;
+    width: 200px;
+    height: 200px;
+}
+.sekilucun img{
+    float:left;
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    word-spacing: 10px;
+    
+}
+p{
+   
+    font-size: 20px;
+    margin: 20px 10px 10px 10px;
+    text-align: justify;
+    line-height: 30px;
+    
+}
+.paraqraf{
+    font-size: 30px;
+    color: rgb(74, 165, 170);
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.yanmenu{
+    position: absolute;
+    left: 880px;
+    top: 95px;
+    border-radius: 20px;
+    border: 1px solid #777;
+
+
+    width: 250px;
+    height: 170px;
+    background-color: #FFF;
+    border: 1px solid #ddd;
+}
+.yanmenu .elementler {
+    
+    width: 50px;
+    height: 50px;
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    
+}
+.yanmenu .elementler img{
+
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    margin-left: 7px;
+}
+.yazmaq{
+    color: rgb(74, 165, 170);
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+footer{
+    width: 100%;
+    height: 60px;
+    background-color: #999;
+    color: #555;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+
+
+
+}
+hr{
+    margin: 20px 20px 10px 20px;
+    border-style: solid;
+    color: #DDD;
+    
+    
+}

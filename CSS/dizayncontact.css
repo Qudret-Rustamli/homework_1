@@ -1,0 +1,164 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: bold;
+    background-image: url(/images/concrete_seamless.png);
+}
+
+
+header{
+ width: 100%;
+ background-color: #fff;
+ height: 60px;
+ border-bottom: solid 0.5px #666;
+
+}
+.linkler  a{
+    text-decoration: none;
+    font-size: 20px;
+    border-right: 0.5px solid #ccc;
+    padding: 10px;
+    color: #ccc;
+}
+.linkler{
+    float: right;
+    margin-right: 350px;
+    word-spacing: 20px;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+h1{
+    display: inline-block;
+    width: 250px;
+    height: 40px;
+    color: #FFF;
+    font-size: 25px;
+    background-color: rgb(74, 170, 165);
+    text-align: center;
+    padding-top: 20px;
+    margin-left:220px;
+}
+.sekilolcusu{
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.contactalt{
+display: inline-block;
+background-color: #fff;
+ width: 180px;
+ height: 130px;
+ margin-left: 970px;
+ padding-top: 20px;
+  margin-top: 40px;
+  border: 0.1px solid #ddd;
+  border-radius: 20px;
+}
+section{
+    width: 100%;
+    height: 800px;
+    background-image: url(../images/concrete_seamless.png);
+} 
+ h3{
+     display: inline;
+    font-size: 20px;
+    color: rgb(74, 170, 165);
+    text-align: center;
+    margin: 15px;
+}
+
+
+.form{
+    
+    width: 650px;
+    height: 600px;
+    background-color:#fff;
+    float: left;
+    margin-left: 220px;
+    margin-top:-150px ;
+    padding: 20px;
+    border: 0.1px solid #ddd;
+    border-radius: 30px;
+    
+
+}
+h2{
+    font-size: 40px;
+    color: rgb(74, 170, 165);
+    text-align: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+label{
+    font-size: 25px;
+    margin-top:10px ;
+    margin-left: 20px;
+
+}
+.input{
+
+    width: 590px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 0.1px solid #ddd;
+    border-radius: 15px;
+    text-align: left;
+    padding-left: 20px;
+    color: #999;
+    font-size: 20px;
+}
+.input1{
+
+    width: 610px;
+    height: 230px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border: 0.1px solid #ddd;
+    border-radius: 15px;
+}
+button{
+    width: 120px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: rgb(74, 170, 165);
+    color: #fff;
+    font-size: 20px;
+    border: solid 1px rgb(74, 170, 165);
+    border-radius: 20px;
+
+}
+/*---------Alt panelin baslangici----------------- */
+
+footer{
+
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: #666;
+    background-color: #ccc;
+    padding-top: 20px;
+
+
+
+}
+hr{
+    margin: 20px 20px 10px 20px;
+    border-style: solid;
+    color: #DDD;
+    
+    
+}
+
+
+
+
+
+
+
+/*---------Alt panelin sonu----------------- */
+
